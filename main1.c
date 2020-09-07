@@ -1,5 +1,4 @@
-//Akram MUSTAFA
-//150116905
+
 #include <stdio.h>
 
 int countEars(int);
